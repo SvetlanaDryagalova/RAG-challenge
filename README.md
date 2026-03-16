@@ -123,3 +123,5 @@ self.data_directory = "/content"            # Директория с PDF
 Студент: Dryagalova Svetlana
 Email: st119022@student.spbu.ru
 Версия: 1.0
+
+## [Работа в Google Colab](https://colab.research.google.com/drive/1OJbjnZ2r-zZuRT38khT4Zlcrvxs1XDZc?usp=sharing)
